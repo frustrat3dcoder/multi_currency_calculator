@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "linux": true,
+    "macos": true,
+    "mobx_calculator.iml": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    ".vscode": true,
+    "web": true,
+    "windows": true
+  }
+}
